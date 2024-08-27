@@ -4,7 +4,7 @@ title: "Data"
 
 [UNDER CONSTRUCTION]
 
-We'll use data from several real world situations in class.
+We'll use data from several real world situations in this class.
 
 ## Data 1
 
